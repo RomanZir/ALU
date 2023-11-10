@@ -1,0 +1,15 @@
+C:\Users\Roman\source\repos\ALU\ALU\bin\Debug\net6.0\ALU.exe
+C:\Users\Roman\source\repos\ALU\ALU\bin\Debug\net6.0\ALU.deps.json
+C:\Users\Roman\source\repos\ALU\ALU\bin\Debug\net6.0\ALU.runtimeconfig.json
+C:\Users\Roman\source\repos\ALU\ALU\bin\Debug\net6.0\ALU.dll
+C:\Users\Roman\source\repos\ALU\ALU\bin\Debug\net6.0\ALU.pdb
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.AssemblyInfo.cs
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.dll
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\refint\ALU.dll
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.pdb
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ALU.genruntimeconfig.cache
+C:\Users\Roman\source\repos\ALU\ALU\obj\Debug\net6.0\ref\ALU.dll
